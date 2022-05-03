@@ -1,0 +1,36 @@
+body{
+    font-family: Tahoma;
+}
+#block_left, #block_right{
+    float: left;
+    width : 30%;
+    height: 200px;
+    color: white;
+    background-color: rosybrown;
+}
+#block_middle{
+    float: left;
+    width: 40%;
+    height: 200px;
+    color: white;
+    background-color: rosybrown;
+    text-align: center;
+
+}
+#main{
+    clear: both;
+    background-color: Wheat;
+    padding: 50px;
+}
+#footer{
+    background-color: RosyBrown;
+    color: white;
+    padding: 5px;
+    text-align: center;
+}
+#link{
+    border: 2px DarkRed solid;
+    background-color: Salmon;
+    padding: 20px;
+    line-height: 200px;
+}
